@@ -2,7 +2,7 @@ import random
 
 # List of words for the game
 words = ["hangman", "python", "game", "programming", "openai"]
-
+Same changes as made in newbranch
 # Hangman graphics
 hangman_graphics = [
     '''
